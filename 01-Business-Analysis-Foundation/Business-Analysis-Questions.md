@@ -1,3 +1,37 @@
+
+GitHub
+│
+├── Business-Analyst-Portfolio
+│       └── README.md
+│
+├── PuroBazar-Business-Analysis
+│       ├── README.md
+│       ├── BRD
+│       ├── FRD
+│       ├── SRS
+│       ├── User-Stories
+│       ├── BPMN
+│       ├── DFD
+│       ├── RTM
+│       └── UAT
+│
+├── Gulistan-Coffee-Shop-Feasibility
+│       ├── README.md
+│       ├── Market-Analysis
+│       ├── Customer-Analysis
+│       ├── Competitor-Analysis
+│       ├── Financial-Analysis
+│       └── Recommendation
+│
+└── Sales-Decline-Case-Study
+        ├── README.md
+        ├── Dataset
+        ├── Data-Analysis
+        ├── Root-Cause
+        └── Recommendation
+
+
+
 প্রায় সব BA project-এ রাখবে
 
 এগুলো তোমার Core BA sections:
