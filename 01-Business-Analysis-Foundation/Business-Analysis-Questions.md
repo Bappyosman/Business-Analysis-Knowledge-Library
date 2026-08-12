@@ -1,3 +1,31 @@
+প্রায় সব BA project-এ রাখবে
+
+এগুলো তোমার Core BA sections:
+
+Business Background
+Problem Statement
+Business Objective
+Stakeholder Analysis
+Customer Analysis (যদি customer-facing project হয়)
+Current Process (As-Is)
+Pain Point Analysis
+Root Cause Analysis
+Proposed Solution
+Future Process (To-Be)
+Business Requirements
+Functional Requirements
+Non-Functional Requirements
+User Stories
+Acceptance Criteria
+Use Case
+BPMN / Activity Diagram
+Data Flow Diagram (যদি system/data flow relevant হয়)
+RTM
+KPI / Success Criteria
+Expected Business Benefits
+
+এগুলো তোমার IT BA portfolio-এর মূল অংশ।
+
 Business Case Study = অনেকগুলো Analysis-এর ফলাফল একসাথে নিয়ে একটি Business Decision নেওয়া।
 অর্থাৎ,
 Business Case Study = Market Analysis + Customer Analysis + Competitor Analysis + Feasibility Study + Financial Analysis + Risk Analysis + অন্যান্য প্রয়োজনীয় Analysis + Final Recommendation
